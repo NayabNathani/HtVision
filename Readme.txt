@@ -33,6 +33,7 @@ Features:
 9)JWTokens
 10)Change Profile Picture
 11)Delete Profile
+12)React Redux for State Management
 
 
 
