@@ -12,6 +12,15 @@ open cmd in htvisionServer folder and type nodemon server.js
 then
 open cmd in frontend folder and type npm start
 
+Dummy Users:
+User1:
+email: htvisions@gmail.com
+password: password
+
+User2:
+email: nayab@gmail.com
+password: password
+
 Features:
 1)Register User
 2)Login User
